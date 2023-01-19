@@ -3,6 +3,7 @@
     margin-right: 10px;
     width: 454px;
     height: 580px;
+    
 
     display: flex;
     flex-direction: column;
@@ -24,4 +25,7 @@
 .big-card__photo {
     width: 100%;
     min-width: 454px;
+}
+.big-card__photo > img {
+    border-radius: 5px;
 }
