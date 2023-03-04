@@ -1,0 +1,23 @@
+*{
+    background-color: #fff;
+}
+.container__bar-bottom {
+    padding: 1rem;
+    background-color: #fff;
+    width: 100vw;
+    height: 300px;
+}
+
+.socials {
+    color: #000;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+.socials > ul > li {
+    padding: .2rem;
+    padding-left: 0;
+    list-style: none;
+}
