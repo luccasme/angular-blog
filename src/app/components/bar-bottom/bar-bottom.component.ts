@@ -14,10 +14,11 @@ export class BarBottomComponent implements OnInit {
   @Input()
   icon_F:string=''
 
-
   constructor() { }
 
   ngOnInit(): void {
+  
+    }
   }
 
-}
+
