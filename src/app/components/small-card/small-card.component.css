@@ -1,6 +1,12 @@
+* {
+    background-color:transparent;
+}
 .container__small-card{
     width: 700px;
-    margin-bottom: 15px;
+    margin-top: 1rem;
+    align-items: center;
+    margin-left: 1rem;
+
 }
 
 .container__small-card-content {
