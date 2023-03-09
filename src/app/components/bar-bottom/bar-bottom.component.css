@@ -71,6 +71,7 @@
 	font-size:15px;
 	font-weight: 600;
 	padding:11px 23px;
+    margin-bottom: .5rem;
 }
 
 .btn {
@@ -106,14 +107,13 @@ label.label_news {
 
 }
 
-.insc,
-.check {
-    margin-bottom: .5rem;
-}
 
-.label_news > p:nth-child(2) {
-    color: grey ;
+.label_news > .aviso {
+    color: grey;
     font-size: 14px;
     margin-bottom: .5rem;
     justify-content: space-around;
 }
+
+
+    

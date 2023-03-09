@@ -1,6 +1,6 @@
 .container__big-card {
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 30px;
     width: 454px;
     height: 580px;
     
@@ -24,7 +24,7 @@
 
 .big-card__photo {
     width: 100%;
-    min-width: 454px;
+    max-width: 454px;
 }
 .big-card__photo > img {
     border-radius: 5px;
